@@ -1,0 +1,11 @@
+E:\docker\FinalDocker\FinalDocker\bin\Debug\netcoreapp2.0\FinalDocker.deps.json
+E:\docker\FinalDocker\FinalDocker\bin\Debug\netcoreapp2.0\FinalDocker.runtimeconfig.json
+E:\docker\FinalDocker\FinalDocker\bin\Debug\netcoreapp2.0\FinalDocker.runtimeconfig.dev.json
+E:\docker\FinalDocker\FinalDocker\bin\Debug\netcoreapp2.0\FinalDocker.dll
+E:\docker\FinalDocker\FinalDocker\bin\Debug\netcoreapp2.0\FinalDocker.pdb
+E:\docker\FinalDocker\FinalDocker\obj\Debug\netcoreapp2.0\FinalDocker.csproj.CoreCompileInputs.cache
+E:\docker\FinalDocker\FinalDocker\obj\Debug\netcoreapp2.0\FinalDocker.AssemblyInfoInputs.cache
+E:\docker\FinalDocker\FinalDocker\obj\Debug\netcoreapp2.0\FinalDocker.AssemblyInfo.cs
+E:\docker\FinalDocker\FinalDocker\obj\Debug\netcoreapp2.0\FinalDocker.dll
+E:\docker\FinalDocker\FinalDocker\obj\Debug\netcoreapp2.0\FinalDocker.pdb
+E:\docker\FinalDocker\FinalDocker\obj\Debug\netcoreapp2.0\FinalDocker.csprojResolveAssemblyReference.cache

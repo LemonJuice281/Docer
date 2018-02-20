@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  finaldocker:
+    build:
+      context: E:\docker\FinalDocker\FinalDocker
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: finaldocker
+    ports:
+    - 80/tcp
+version: '3.0'
